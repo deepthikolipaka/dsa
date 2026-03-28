@@ -15,7 +15,6 @@ public class Grade extends Credits {
             case "B":return 6;
             case "C":return 5;
             default :return 0;
-
         }
     }
     public static void main(String[] args) {
