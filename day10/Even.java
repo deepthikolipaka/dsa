@@ -3,7 +3,7 @@ package day10;
 import java.util.Scanner;
 public class Even {
     public static void main(String[] args) {
-        Sum s=new Sum();
+        Even s=new Even();
         s.add();
     }
     void add() {
