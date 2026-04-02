@@ -9,7 +9,7 @@ public class Fact {
         int n=sc.nextInt();
         int i,fact=1;
         for(i=n;i>=1;i--){
-            fact=fact*i;
+            fact*=i;
         }
         System.out.println("Factorial of given number:"+fact);
 

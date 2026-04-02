@@ -1,7 +1,7 @@
 //Define a program to find out whether a given number is even or odd with functions concept
 package day10;
 import java.util.Scanner;
-public class Sum {
+public class Even {
     public static void main(String[] args) {
         Sum s=new Sum();
         s.add();
